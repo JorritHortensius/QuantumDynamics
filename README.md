@@ -1,4 +1,8 @@
 # QuantumDynamics
+This repository contains the code for the Quantum Dynamics project. The group members are:  
+Liza de Wilde  
+Bas van 't Hooft  
+Jorrit Hortensius  
 
 This repository contains two files with code:  
 
@@ -15,12 +19,12 @@ pattern on the other side of the barrier.
 
 There are 4 videos:
 
-1. Trotterization_1D  
-2. Crank-Nicolson_1D  
+1. 1D_Trotterization_
+2. 1D_Crank_Nicolson 
 These mp4 files show the amplitude of the wave function (squared) in both real space and momentum space  
 for the 1D case of a Gaussian wavepacket reaching a potential barrier. 
 
-3. Trotterization_2D
-4. Crank-Nicolson_2D  
+3. 2D_Trotterization  
+4. 2D_Crank_Nicolson  
 These mp4 files show the amplitude of the wave function (squared) in real space for the 2D case of a  
 Gaussian wavepacket reaching a two-hole barrier. 
