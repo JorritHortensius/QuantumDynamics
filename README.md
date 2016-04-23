@@ -19,12 +19,12 @@ pattern on the other side of the barrier.
 
 There are 4 videos:
 
-1. 1D_Trotterization_
+1. 1D_Trotterization  
 2. 1D_Crank_Nicolson   
 These mp4 files show the amplitude of the wave function (squared) in both real space and momentum space  
 for the 1D case of a Gaussian wavepacket reaching a potential barrier. 
 
-3. 2D_Trotterization  
-4. 2D_Crank_Nicolson  
+3. 2D_SplitOperator  
+4. 2D_CrankNicolson  
 These mp4 files show the amplitude of the wave function (squared) in real space for the 2D case of a  
 Gaussian wavepacket reaching a two-hole barrier. 
