@@ -20,7 +20,7 @@ pattern on the other side of the barrier.
 There are 4 videos:
 
 1. 1D_Trotterization_
-2. 1D_Crank_Nicolson 
+2. 1D_Crank_Nicolson   
 These mp4 files show the amplitude of the wave function (squared) in both real space and momentum space  
 for the 1D case of a Gaussian wavepacket reaching a potential barrier. 
 
